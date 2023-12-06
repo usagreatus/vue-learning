@@ -38,7 +38,7 @@ Before you begin, make sure you have the following installed on your machine:
 Once you have completed the installation, you can run the project using the following command:
 
 ```bash
-npx serve
+npm run start
 ```
 
 This will start a development server, and you can view the project by opening your browser and navigating to the provided URL (usually http://localhost:5000).
